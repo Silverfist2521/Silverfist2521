@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silverfist2521
+- 👋 Hi, I’m @Vaishanv Indra kumar
 - 👀 I’m interested in ...machine learning and web dev
 - 🌱 I’m currently learning ...machine learning
 - 💞️ I’m looking to collaborate on ...
